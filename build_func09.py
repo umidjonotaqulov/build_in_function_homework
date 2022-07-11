@@ -6,4 +6,5 @@ x=2
 y=4
 
 answer=2*(pow(y,3)+pow(x,2)*y)
+
 print(answer)

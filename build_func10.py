@@ -1,12 +1,5 @@
 # the task condition is placed in the README file
 # https://github.com/codeschool43/Build_in_function_homework#build_func10
-#"x" o'zgaruvchisini yarating va unga 2 qiymatini belgilang.
-#"y" o'zgaruvchisini yarating va unga 4 qiymatini belgilang.
-#Qiymatni hisoblang: .
-#Natijani "javob"ga tayinlang
-#Natijani 2 kasrgacha yaxlitlang.
-#Pow funksiyasidan foydalaning
-#Dumaloq funksiyadan foydalaning
 
 x=2
 
